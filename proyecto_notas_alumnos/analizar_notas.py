@@ -2,8 +2,8 @@ import pandas as pd
 from typing import List
 
 # Definición de Constantes de Archivo
-ARCHIVO_UF1 = "proyecto_notas_alumnos\\Notas_Alumnos_UF1.csv"
-ARCHIVO_UF2 = "proyecto_notas_alumnos\\Notas_Alumnos_UF2.csv"
+ARCHIVO_UF1 = "Notas_Alumnos_UF1.csv"
+ARCHIVO_UF2 = "Notas_Alumnos_UF2.csv"
 
 def cargar_y_combinar_datos(archivo1: str, archivo2: str) -> pd.DataFrame:
     """Carga los datos de las UF y los combina en un único DataFrame."""
