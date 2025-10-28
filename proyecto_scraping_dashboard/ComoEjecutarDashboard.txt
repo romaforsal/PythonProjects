@@ -1,0 +1,3 @@
+Dentro de la terminal de PyCharm se debe ejecutar el siguiente comando:
+
+"streamlit run proyecto_scraping_dashboard\dashboard.py"

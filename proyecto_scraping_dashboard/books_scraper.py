@@ -5,7 +5,7 @@ import pandas as pd
 url = "https://books.toscrape.com/"
 
 response = requests.get(url)
-response.encoding = 'utf-8'  # Fuerza la codificación correcta
+response.encoding = 'utf-8'
 soup = BeautifulSoup(response.text, 'html.parser')
 
 books = soup.find_all('article', class_='product_pod')
