@@ -29,10 +29,7 @@ for book in books:
 
     # Limpieza más robusta del precio
     price_clean = (
-        price_text.replace('£', '')
-        .replace('Â', '')   # Elimina caracteres mal codificados
-        .strip()
-    )
+        price_text.replace('£', '').replace('Â', '').strip())
 
     price = float(price_clean)
 
