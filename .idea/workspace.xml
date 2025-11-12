@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dba92167-e51f-4906-b305-7b9b1c06311f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/proyecto_asistente_peluqueria/servicios.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proyecto_asistente_peluqueria/asistente_peluqueria.py" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_asistente_peluqueria/asistente_peluqueria.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto_asistente_peluqueria/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_asistente_peluqueria/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +89,7 @@
       <workItem from="1762977931350" duration="2822000" />
       <workItem from="1762982154687" duration="1011000" />
       <workItem from="1762983199423" duration="1108000" />
-      <workItem from="1762984326718" duration="1115000" />
+      <workItem from="1762984326718" duration="1770000" />
     </task>
     <servers />
   </component>
@@ -102,7 +98,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProjects$prueba.coverage" NAME="prueba Coverage Results" MODIFIED="1762985392761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proyecto_asistente_peluqueria" />
-    <SUITE FILE_PATH="coverage/PythonProjects$asistente_peluqueria.coverage" NAME="asistente_peluqueria Coverage Results" MODIFIED="1762985233864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proyecto_asistente_peluqueria" />
+    <SUITE FILE_PATH="coverage/PythonProjects$asistente_peluqueria.coverage" NAME="asistente_peluqueria Coverage Results" MODIFIED="1762986062001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proyecto_asistente_peluqueria" />
     <SUITE FILE_PATH="coverage/PythonProjects$analizar_notas.coverage" NAME="analizar_notas Coverage Results" MODIFIED="1760975231066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proyecto_notas_alumnos" />
   </component>
 </project>

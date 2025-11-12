@@ -70,4 +70,10 @@ entrada_usuario.pack(padx=10, pady=5)
 boton_enviar = tk.Button(ventana, text="Enviar", bg="#4CAF50", fg="white", command=obtener_respuesta)
 boton_enviar.pack(pady=10)
 
+# 🔹 NUEVO: permitir enviar con la tecla Enter
+def enviar_con_enter(event):
+    obtener_respuesta()
+
+entrada_usuario.bind("<Return>", enviar_con_enter)
+
 ventana.mainloop()
