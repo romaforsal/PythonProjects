@@ -1,0 +1,12 @@
+Bienvenido a Peluquería Pelo y Punto.
+Servicios disponibles:
+- Corte de pelo: 15 €
+- Tinte completo: 35 €
+- Mechas: 40 €
+- Peinado: 20 €
+- Manicura: 12 €
+Horario:
+- Lunes a viernes: 9:00 a 19:00
+- Sábados: 9:00 a 14:00
+No se requiere cita previa, pero se recomienda reservar.
+Teléfono: 654 987 321
