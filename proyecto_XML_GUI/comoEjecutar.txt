@@ -1,0 +1,1 @@
+streamlit run proyecto_XML_GUI/app.py
