@@ -1,0 +1,14 @@
+# Archivos de entorno (Secretos)
+.env
+
+# Carpetas de Python (Basura temporal)
+__pycache__/
+*.pyc
+
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Carpetas de IDE
+.vscode/
