@@ -5,19 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dba92167-e51f-4906-b305-7b9b1c06311f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/proyecto_tracking_hands/HandTrackingModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_tracking_hands/VolumeHandControl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_tracking_hands/config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_tracking_hands/config/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_tracking_hands/dao/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_tracking_hands/dao/mongodb_dao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_tracking_hands/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_tracking_hands/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_tracking_hands/models/session.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_tracking_hands/models/volume_event.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_tracking_hands/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_acceso_biometrico/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_acceso_biometrico/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_acceso_biometrico/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_acceso_biometrico/db/create_tables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_acceso_biometrico/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_acceso_biometrico/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_acceso_biometrico/src/biopass_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_acceso_biometrico/src/conexion_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_acceso_biometrico/src/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_acceso_biometrico/src/usuario_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_acceso_biometrico/src/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_acceso_biometrico/src/utils/camera_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_acceso_voz/db/create_tables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_acceso_voz/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_acceso_voz/src/auth_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_acceso_voz/src/conexion_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_acceso_voz/src/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_acceso_voz/src/main_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_acceso_voz/src/voice_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_flask/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_flask/src/api/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_flask/src/config/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_flask/src/config/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_flask/src/models/book.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/PythonProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,11 +90,16 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDrive - Centre d'Estudis Monlau\AccesADades\PythonProjects\proyecto_acceso_biometrico\src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -103,7 +120,6 @@
       <workItem from="1762982154687" duration="1011000" />
       <workItem from="1762983199423" duration="1108000" />
       <workItem from="1762984326718" duration="1951000" />
-      <workItem from="1772053037494" duration="115000" />
     </task>
     <servers />
   </component>

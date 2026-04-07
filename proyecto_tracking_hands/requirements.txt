@@ -1,0 +1,14 @@
+# OpenCV for video capture and UI [cite: 18]
+opencv-python
+
+# MediaPipe for hand landmarker (version compatible with Python 3.14) [cite: 19]
+mediapipe>=0.10.30
+
+# Pycaw for Windows audio control [cite: 20]
+pycaw
+
+# PyMongo for MongoDB Atlas integration [cite: 23]
+pymongo[srv]
+
+# Python-dotenv for environment variables [cite: 30]
+python-dotenv

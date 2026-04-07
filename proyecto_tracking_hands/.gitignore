@@ -1,0 +1,15 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+ENV/
+
+# Archivos de configuración de PyCharm
+.idea/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# ARCHIVO SENSIBLE (¡IMPORTANTE!)
+.env
